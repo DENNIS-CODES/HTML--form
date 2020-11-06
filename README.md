@@ -2,7 +2,7 @@
 
 > This project consists of building an HTML document that matches the appearance of [mint.com’s sign-up page](https://accounts.intuit.com/signup.html). The page was structured into three main containers: header, main, footer. The header contains elements relevant to signing into an existing account. The main contains the actual form and any elements relevant to the context of signing up for an account and any terms and policies a user needs to be aware of. The final element, footer, contains general information about the company and provides relevant links. The project itself is static and not does not function as a real form. This project was used as an exercise to recreate the User Interface of an existing form.
 
-![screenshort](https://github.com/DENNIS-CODES/HTML--form/issues/1)
+![intuit](https://user-images.githubusercontent.com/65861136/98391641-f3446c00-2067-11eb-9aa1-74208bb9d7ab.png)
 
 ## Built With
 
