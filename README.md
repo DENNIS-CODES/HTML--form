@@ -35,8 +35,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- [@microverseinc](https://github.com/microverseinc)
+-odin challenge
 
 ## 📝 License
 
-This project is [MIT](LICENSE) licensed.
+This project is  [GPL-3.0 License] licensed.
