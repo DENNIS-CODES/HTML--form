@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://dennis-codes.github.io/html--form/)
+[Live Demo Link](https://dennis-codes.github.io/HTML--form/)
 
 ## Author
 
